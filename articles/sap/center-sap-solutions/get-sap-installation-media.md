@@ -273,7 +273,7 @@ Next, upload the SAP software files to the storage account:
 
 1. Create a subfolder named **templates**.
 
-1. Download the following files, depending on your SAP version. 
+1. Download the following files, depending on your SAP version.
 
     1. For S/4HANA 1909 SPS 03:
         
